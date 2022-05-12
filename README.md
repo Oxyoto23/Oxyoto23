@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Oxyoto23
+- 👀 I’m interested in cloud stuff
+- 🌱 I’m currently learning ops
